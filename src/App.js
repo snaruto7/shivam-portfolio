@@ -1,10 +1,12 @@
 import React from "react";
-import "./App.css";
+import "./App.scss";
 import MainContainer from "./containers/index";
 
 function App() {
   return (
-    <MainContainer />
+    <div>
+      <MainContainer />
+    </div>
   );
 }
 
