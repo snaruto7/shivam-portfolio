@@ -23,7 +23,7 @@ const greeting = {
   username: "Shivam",
   title: "Hi all,I'm Shivam",
   subTitle: emoji(
-    "A passionate DevOps Engineer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate DevOps Engineer 🚀 having an experience of building and deploying Web applications with JavaScript / Reactjs / Nodejs / GoLang / Java to Kubernetes."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -243,7 +243,7 @@ const achievementSection = {
         {name: "Certification", url: ""},
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: "https://xyz.com/"
         }
       ]
     }
@@ -255,7 +255,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
+  number: "+91-0000000000",
   email_address: "shivam.narula7@gmail.com"
 };
 
