@@ -229,45 +229,161 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Microsoft Certified: Azure Security Engineer Associate",
       
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/azure-security-engineer.PNG"),
       footerLink: [
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Microsoft Certified: Azure Developer Associate",
       
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/azure-developer-associate.PNG"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
+          name: "Certification",
           url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
+      title: "Microsoft Azure Architect Design",
       
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/azure-architect-design.PNG"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://xyz.com/"
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Azure Architect Technologies",
+      
+      image: require("./assets/images/azure-solutions-architect-expert.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Certified: Devops Engineer Expert",
+      
+      image: require("./assets/images/azure-devops-engineer.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
+    {
+      title: "Microsoft Certified: Azure Administrator Associate",
+      
+      image: require("./assets/images/azure-administrator.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Certified: Azure Fundamentals",
+      
+      image: require("./assets/images/azure-fundamentals.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Certified: Azure AI Fundamentals",
+      
+      image: require("./assets/images/azure-ai-fundamentals.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
+    {
+      title: "Microsoft Certified: Azure Data Fundamentals",
+      
+      image: require("./assets/images/azure-data-fundamentals.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+    {
+      title: "HashiCorp Certified Terraform Associate",
+      
+      image: require("./assets/images/terraform-associate.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
+      
+      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
+    {
+      title: "Red Hat Certified Specialist in Openshift Administration",
+      
+      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+    {
+      title: "Red Hat Certified Specialist in Ansible Automation",
+      
+      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
+    {
+      title: "Red Hat Certified System Administrator",
+      
+      image: require("./assets/images/redhat-rhcsa.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
     }
