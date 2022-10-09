@@ -235,7 +235,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
         }
       ]
     },
@@ -246,7 +246,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
         }
       ]
     },
@@ -258,7 +258,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
         }
       ]
     },
@@ -269,7 +269,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
         }
       ]
     },
@@ -280,7 +280,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
         }
       ]
     },
@@ -292,7 +292,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
         }
       ]
     },
@@ -303,7 +303,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
         }
       ]
     },
@@ -314,7 +314,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
         }
       ]
     },
@@ -326,7 +326,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
         }
       ]
     },
@@ -337,7 +337,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
         }
       ]
     },
@@ -348,7 +348,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
         }
       ]
     },
@@ -356,22 +356,22 @@ const achievementSection = {
     {
       title: "Red Hat Certified Specialist in Openshift Administration",
       
-      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      image: require("./assets/images/redhat-openshift.PNG"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-openshift.PNG"
         }
       ]
     },
     {
       title: "Red Hat Certified Specialist in Ansible Automation",
       
-      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      image: require("./assets/images/redhat-ansible.PNG"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
         }
       ]
     },
@@ -383,9 +383,25 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-rhcsa.PNG"
         }
       ]
+    }
+  ],
+  display: true // Set false to hide this section, defaults to true
+};
+
+const publicationsSection = {
+  title: "PUBLICATIONS",
+  subtitle: emoji(
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE😅"
+  ),
+
+  publications: [
+    {
+      title: "A Dynamic Trust Model for Blockchain-Based Supply Chain Management Networks",
+      book: "Recent Trends in Blockchain for Information Systems Security and Privacy",
+      book_url: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003139737-4/dynamic-trust-model-blockchain-based-supply-chain-management-networks-shivam-narula-annapurna-jonnalagadda-aswani-kumar-cherukuri"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -411,4 +427,5 @@ export {
   openSource,
   achievementSection,
   contactInfo,
+  publicationsSection
 };

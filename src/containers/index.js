@@ -10,6 +10,7 @@ import Footer from "../components/footer/Footer";
 import Education from "./education/Education";
 import ScrollToTopButton from "./topbutton/Top";
 import Profile from "./profile/Profile";
+import Publications from "./publications/Publications";
 import SplashScreen from "./splashScreen/SplashScreen";
 import {splashScreen} from "../portfolio";
 import {StyleProvider} from "../contexts/StyleContext";
@@ -53,6 +54,7 @@ const MainContainer = () => {
             <WorkExperience />
             <Projects />
             <Achievement />
+            <Publications />
             <Profile />
             <Footer />
             <ScrollToTopButton />
