@@ -5,16 +5,6 @@ import StyleContext from "../../contexts/StyleContext";
 
 export default function EducationCard({school}) {
   const imgRef = createRef();
-
-  const GetDescBullets = ({descBullets}) => {
-    return descBullets
-      ? descBullets.map((item, i) => (
-          <li key={i} className="subTitle">
-            {item}
-          </li>
-        ))
-      : null;
-  };
   const {isDark} = useContext(StyleContext);
 
   if (!school.logo)
