@@ -341,17 +341,17 @@ const achievementSection = {
         }
       ]
     },
-    {
-      title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
+    // {
+    //   title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
       
-      image: require("./assets/images/redhat-ceph-storage.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
-        }
-      ]
-    },
+    //   image: require("./assets/images/redhat-ceph-storage.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
+    //     }
+    //   ]
+    // },
 
     // {
     //   title: "Red Hat Certified Specialist in Openshift Administration",
