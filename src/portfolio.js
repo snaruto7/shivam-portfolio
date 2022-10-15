@@ -231,161 +231,161 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Security Engineer Associate",
       
-      image: require("./assets/images/azure-security-engineer.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-security-engineer.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
+      //   }
+      // ]
     },
     {
       title: "Microsoft Certified: Azure Developer Associate",
       
-      image: require("./assets/images/azure-developer-associate.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-developer-associate.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
+      //   }
+      // ]
     },
 
     {
       title: "Microsoft Azure Architect Design",
       
-      image: require("./assets/images/azure-architect-design.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-architect-design.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
+      //   }
+      // ]
     },
     {
       title: "Microsoft Azure Architect Technologies",
       
-      image: require("./assets/images/azure-solutions-architect-expert.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-solutions-architect-expert.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
+      //   }
+      // ]
     },
     {
       title: "Microsoft Certified: Devops Engineer Expert",
       
-      image: require("./assets/images/azure-devops-engineer.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-devops-engineer.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
+      //   }
+      // ]
     },
 
     {
       title: "Microsoft Certified: Azure Administrator Associate",
       
-      image: require("./assets/images/azure-administrator.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-administrator.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
+      //   }
+      // ]
     },
     {
       title: "Microsoft Certified: Azure Fundamentals",
       
-      image: require("./assets/images/azure-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-fundamentals.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
+      //   }
+      // ]
     },
     {
       title: "Microsoft Certified: Azure AI Fundamentals",
       
-      image: require("./assets/images/azure-ai-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-ai-fundamentals.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
+      //   }
+      // ]
     },
 
     {
       title: "Microsoft Certified: Azure Data Fundamentals",
       
-      image: require("./assets/images/azure-data-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
-        }
-      ]
+      image: require("./assets/images/azure-data-fundamentals.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
+      //   }
+      // ]
     },
     {
       title: "HashiCorp Certified Terraform Associate",
       
-      image: require("./assets/images/terraform-associate.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
-        }
-      ]
+      image: require("./assets/images/terraform-associate.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
+      //   }
+      // ]
     },
     {
       title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
       
-      image: require("./assets/images/redhat-ceph-storage.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
-        }
-      ]
+      image: require("./assets/images/redhat-ceph-storage.webp")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
+      //   }
+      // ]
     },
 
     {
       title: "Red Hat Certified Specialist in Openshift Administration",
       
-      image: require("./assets/images/redhat-openshift.PNG"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-openshift.PNG"
-        }
-      ]
+      image: require("./assets/images/redhat-openshift.PNG")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-openshift.PNG"
+      //   }
+      // ]
     },
     {
       title: "Red Hat Certified Specialist in Ansible Automation",
       
-      image: require("./assets/images/redhat-ansible.PNG"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
-        }
-      ]
+      image: require("./assets/images/redhat-ansible.PNG")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
+      //   }
+      // ]
     },
 
     {
       title: "Red Hat Certified System Administrator",
       
-      image: require("./assets/images/redhat-rhcsa.PNG"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-rhcsa.PNG"
-        }
-      ]
+      image: require("./assets/images/redhat-rhcsa.PNG")
+      // footerLink: [
+      //   {
+      //     name: "Certification",
+      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-rhcsa.PNG"
+      //   }
+      // ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
