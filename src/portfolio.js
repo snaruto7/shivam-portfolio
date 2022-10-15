@@ -273,17 +273,17 @@ const achievementSection = {
         }
       ]
     },
-    // {
-    //   title: "Microsoft Certified: Devops Engineer Expert",
+    {
+      title: "Microsoft Certified: Devops Engineer Expert",
       
-    //   image: require("./assets/images/azure-devops-engineer.webp")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
-    //   //   }
-    //   // ]
-    // },
+      image: require("./assets/images/azure-devops-engineer.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
+        }
+      ]
+    },
 
     // {
     //   title: "Microsoft Certified: Azure Administrator Associate",
