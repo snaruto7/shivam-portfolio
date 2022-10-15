@@ -21,6 +21,11 @@
   color: $subTitle;
 }
 
+.main > * {
+  flex: 1;
+}
+
+
 /* Media Query */
 @media (max-width: 1380px) {
   .achievement-heading {
