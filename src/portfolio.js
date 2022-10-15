@@ -317,19 +317,18 @@ const achievementSection = {
           url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
         }
       ]
-    }
-
-    // {
-    //   title: "Microsoft Certified: Azure Data Fundamentals",
+    },
+    {
+      title: "Microsoft Certified: Azure Data Fundamentals",
       
-    //   image: require("./assets/images/azure-data-fundamentals.webp"),
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
-    //     }
-    //   ]
-    // },
+      image: require("./assets/images/azure-data-fundamentals.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
+        }
+      ]
+    }
     // {
     //   title: "HashiCorp Certified Terraform Associate",
       
