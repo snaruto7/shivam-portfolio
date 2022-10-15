@@ -49,6 +49,22 @@ export default function Achievement() {
               );
             })}
           </div>
+          <div className="achievement-cards-div">
+            {achievementSection.achievementsCards.map((card, i) => {
+              return (
+                <AchievementCard
+                  key={i}
+                  isDark={isDark}
+                  cardInfo={{
+                    title: card.title,
+                    description: card.subtitle,
+                    image: card.image,
+                    footer: card.footerLink
+                  }}
+                />
+              );
+            })}
+          </div>
         </div>
       </div>
     </Fade>
