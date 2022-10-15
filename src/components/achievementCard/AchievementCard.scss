@@ -44,11 +44,6 @@
   justify-content: center;
   align-items: center;
 }
-.achievement-cards-div {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1rem 1rem;
-}
 .certificate-card-footer {
   display: flex;
   align-items: center;
