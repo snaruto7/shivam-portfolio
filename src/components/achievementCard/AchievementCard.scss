@@ -3,7 +3,7 @@
 .card-image {
   max-width: 100%;
   height: auto;
-  width: 250px;
+  width: 180px;
 }
 .card-title {
   color: $titleColor;
@@ -21,7 +21,7 @@
   background-color: $lightBackground2;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
   padding: 1.5rem;
-  border-radius: 10px;
+  border-radius: 8px;
   border: 1px solid $lightBorder1;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -38,7 +38,7 @@
 }
 .certificate-image-div {
   position: relative;
-  height: 250px;
+  height: 240px;
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -46,7 +46,7 @@
 }
 .achievement-cards-div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1rem 1rem;
 }
 .certificate-card-footer {
