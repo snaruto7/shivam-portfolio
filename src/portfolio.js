@@ -251,17 +251,17 @@ const achievementSection = {
       ]
     },
 
-    {
-      title: "Microsoft Azure Architect Design",
+    // {
+    //   title: "Microsoft Azure Architect Design",
       
-      image: require("./assets/images/azure-architect-design.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
-        }
-      ]
-    },
+    //   image: require("./assets/images/azure-architect-design.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
+    //     }
+    //   ]
+    // },
     {
       title: "Microsoft Azure Architect Technologies",
       
@@ -363,17 +363,17 @@ const achievementSection = {
     //   //   }
     //   // ]
     // },
-    // {
-    //   title: "Red Hat Certified Specialist in Ansible Automation",
+    {
+      title: "Red Hat Certified Specialist in Ansible Automation",
       
-    //   image: require("./assets/images/redhat-ansible.PNG")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
-    //   //   }
-    //   // ]
-    // },
+      image: require("./assets/images/redhat-ansible.PNG"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
+        }
+      ]
+    },
 
     // {
     //   title: "Red Hat Certified System Administrator",

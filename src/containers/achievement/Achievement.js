@@ -47,16 +47,6 @@ export default function Achievement() {
                     footer: card.footerLink
                   }}
                 />
-                <AchievementCard
-                  key={i}
-                  isDark={isDark}
-                  cardInfo={{
-                    title: card.title,
-                    description: card.subtitle,
-                    image: card.image,
-                    footer: card.footerLink
-                  }}
-                />
                 </>
               );
             })}
