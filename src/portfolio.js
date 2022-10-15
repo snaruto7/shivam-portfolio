@@ -285,17 +285,17 @@ const achievementSection = {
       ]
     },
 
-    // {
-    //   title: "Microsoft Certified: Azure Administrator Associate",
+    {
+      title: "Microsoft Certified: Azure Administrator Associate",
       
-    //   image: require("./assets/images/azure-administrator.webp")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
-    //   //   }
-    //   // ]
-    // },
+      image: require("./assets/images/azure-administrator.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
+        }
+      ]
+    },
     // {
     //   title: "Microsoft Certified: Azure Fundamentals",
       
