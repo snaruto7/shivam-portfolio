@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import "./Achievement.scss";
-//import AchievementCard from "../../components/achievementCard/AchievementCard";
+import AchievementCard from "../../components/achievementCard/AchievementCard";
 import {achievementSection} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
@@ -33,7 +33,7 @@ export default function Achievement() {
               {achievementSection.subtitle}
             </p>
           </div>
-          {/* <div className="achievement-cards-div">
+          <div className="achievement-cards-div">
             {achievementSection.achievementsCards.map((card, i) => {
               return (
                 <AchievementCard
@@ -48,7 +48,7 @@ export default function Achievement() {
                 />
               );
             })}
-          </div> */}
+          </div>
         </div>
       </div>
     </Fade>
