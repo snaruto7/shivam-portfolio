@@ -231,48 +231,48 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Security Engineer Associate",
       
-      image: require("./assets/images/azure-security-engineer.webp")
-      // footerLink: [
-      //   {
-      //     name: "Certification",
-      //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
-      //   }
-      // ]
-    }
-    // {
-    //   title: "Microsoft Certified: Azure Developer Associate",
+      image: require("./assets/images/azure-security-engineer.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Certified: Azure Developer Associate",
       
-    //   image: require("./assets/images/azure-developer-associate.webp")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
-    //   //   }
-    //   // ]
-    // },
+      image: require("./assets/images/azure-developer-associate.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
+        }
+      ]
+    },
 
-    // {
-    //   title: "Microsoft Azure Architect Design",
+    {
+      title: "Microsoft Azure Architect Design",
       
-    //   image: require("./assets/images/azure-architect-design.webp")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
-    //   //   }
-    //   // ]
-    // },
-    // {
-    //   title: "Microsoft Azure Architect Technologies",
+      image: require("./assets/images/azure-architect-design.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Azure Architect Technologies",
       
-    //   image: require("./assets/images/azure-solutions-architect-expert.webp")
-    //   // footerLink: [
-    //   //   {
-    //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
-    //   //   }
-    //   // ]
-    // },
+      image: require("./assets/images/azure-solutions-architect-expert.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
+        }
+      ]
+    },
     // {
     //   title: "Microsoft Certified: Devops Engineer Expert",
       
