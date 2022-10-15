@@ -36,6 +36,7 @@ export default function Achievement() {
           <div className="achievement-cards-div">
             {achievementSection.achievementsCards.map((card, i) => {
               return (
+                <>
                 <AchievementCard
                   key={i}
                   isDark={isDark}
@@ -46,6 +47,17 @@ export default function Achievement() {
                     footer: card.footerLink
                   }}
                 />
+                <AchievementCard
+                  key={i}
+                  isDark={isDark}
+                  cardInfo={{
+                    title: card.title,
+                    description: card.subtitle,
+                    image: card.image,
+                    footer: card.footerLink
+                  }}
+                />
+                </>
               );
             })}
           </div>
