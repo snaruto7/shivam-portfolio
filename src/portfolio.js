@@ -295,18 +295,18 @@ const achievementSection = {
           url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
         }
       ]
-    } 
-    // {
-    //   title: "Microsoft Certified: Azure Fundamentals",
+    },
+    {
+      title: "Microsoft Certified: Azure Fundamentals",
       
-    //   image: require("./assets/images/azure-fundamentals.webp"),
-    //   footerLink: [
-    //     {
-    //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
-    //     }
-    //   ]
-    // },
+      image: require("./assets/images/azure-fundamentals.webp"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
+        }
+      ]
+    }
     // {
     //   title: "Microsoft Certified: Azure AI Fundamentals",
       
