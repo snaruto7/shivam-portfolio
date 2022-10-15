@@ -136,7 +136,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "VIT University",
-      logo: require("./assets/images/vitlogo.png"),
+      logo: require("./assets/images/vitlogo.webp"),
       subHeader: "B.Tech in Computer Science Engineering",
       duration: "July 2015 - April 2019",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ..."
@@ -173,7 +173,7 @@ const workExperiences = {
     {
       role: "DevOps Engineer",
       company: "Sharechat",
-      companylogo: require("./assets/images/sharechatLogo.png"),
+      companylogo: require("./assets/images/sharechatLogo.webp"),
       date: "Dec 2021 – Present",
       desc: "Joined as DevOps Engineer-1 and worked directly for the Release Engineering Pod in Core DevOps team.",
       descBullets: [
@@ -198,7 +198,7 @@ const workExperiences = {
     {
       role: "UI Developer",
       company: "Mech Mocha",
-      companylogo: require("./assets/images/mechmochalogo.png"),
+      companylogo: require("./assets/images/mechmochalogo.webp"),
       date: "May 2019 – Dec 2019",
       desc: "Joined as UI Developer and worked directly in creating 2D board games.",
       descBullets: [
@@ -231,7 +231,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Security Engineer Associate",
       
-      image: require("./assets/images/azure-security-engineer.PNG"),
+      image: require("./assets/images/azure-security-engineer.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -242,7 +242,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Developer Associate",
       
-      image: require("./assets/images/azure-developer-associate.PNG"),
+      image: require("./assets/images/azure-developer-associate.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -254,7 +254,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Architect Design",
       
-      image: require("./assets/images/azure-architect-design.PNG"),
+      image: require("./assets/images/azure-architect-design.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -265,7 +265,7 @@ const achievementSection = {
     {
       title: "Microsoft Azure Architect Technologies",
       
-      image: require("./assets/images/azure-solutions-architect-expert.PNG"),
+      image: require("./assets/images/azure-solutions-architect-expert.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -276,7 +276,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Devops Engineer Expert",
       
-      image: require("./assets/images/azure-devops-engineer.PNG"),
+      image: require("./assets/images/azure-devops-engineer.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -288,7 +288,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Administrator Associate",
       
-      image: require("./assets/images/azure-administrator.PNG"),
+      image: require("./assets/images/azure-administrator.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -299,7 +299,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Fundamentals",
       
-      image: require("./assets/images/azure-fundamentals.PNG"),
+      image: require("./assets/images/azure-fundamentals.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -310,7 +310,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure AI Fundamentals",
       
-      image: require("./assets/images/azure-ai-fundamentals.PNG"),
+      image: require("./assets/images/azure-ai-fundamentals.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -322,7 +322,7 @@ const achievementSection = {
     {
       title: "Microsoft Certified: Azure Data Fundamentals",
       
-      image: require("./assets/images/azure-data-fundamentals.PNG"),
+      image: require("./assets/images/azure-data-fundamentals.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -333,7 +333,7 @@ const achievementSection = {
     {
       title: "HashiCorp Certified Terraform Associate",
       
-      image: require("./assets/images/terraform-associate.PNG"),
+      image: require("./assets/images/terraform-associate.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -344,7 +344,7 @@ const achievementSection = {
     {
       title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
       
-      image: require("./assets/images/redhat-ceph-storage.PNG"),
+      image: require("./assets/images/redhat-ceph-storage.webp"),
       footerLink: [
         {
           name: "Certification",
