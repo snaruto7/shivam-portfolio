@@ -33,7 +33,7 @@ export default function Achievement() {
               {achievementSection.subtitle}
             </p>
           </div>
-          <div className="achievement-cards-div">
+          {/* <div className="achievement-cards-div">
             {achievementSection.achievementsCards.map((card, i) => {
               return (
                 <AchievementCard
@@ -48,7 +48,7 @@ export default function Achievement() {
                 />
               );
             })}
-          </div>
+          </div> */}
         </div>
       </div>
     </Fade>
