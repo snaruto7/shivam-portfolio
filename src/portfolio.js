@@ -330,17 +330,17 @@ const achievementSection = {
         }
       ]
     },
-    {
-      title: "HashiCorp Certified Terraform Associate",
+    // {
+    //   title: "HashiCorp Certified Terraform Associate",
       
-      image: require("./assets/images/terraform-associate.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
-        }
-      ]
-    },
+    //   image: require("./assets/images/terraform-associate.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
+    //     }
+    //   ]
+    // },
     // {
     //   title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
       
