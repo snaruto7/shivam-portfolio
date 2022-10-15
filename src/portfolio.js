@@ -295,52 +295,52 @@ const achievementSection = {
           url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
         }
       ]
-    },
-    {
-      title: "Microsoft Certified: Azure Fundamentals",
+    } 
+    // {
+    //   title: "Microsoft Certified: Azure Fundamentals",
       
-      image: require("./assets/images/azure-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
-        }
-      ]
-    },
-    {
-      title: "Microsoft Certified: Azure AI Fundamentals",
+    //   image: require("./assets/images/azure-fundamentals.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
+    //     }
+    //   ]
+    // },
+    // {
+    //   title: "Microsoft Certified: Azure AI Fundamentals",
       
-      image: require("./assets/images/azure-ai-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
-        }
-      ]
-    },
+    //   image: require("./assets/images/azure-ai-fundamentals.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
+    //     }
+    //   ]
+    // },
 
-    {
-      title: "Microsoft Certified: Azure Data Fundamentals",
+    // {
+    //   title: "Microsoft Certified: Azure Data Fundamentals",
       
-      image: require("./assets/images/azure-data-fundamentals.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
-        }
-      ]
-    },
-    {
-      title: "HashiCorp Certified Terraform Associate",
+    //   image: require("./assets/images/azure-data-fundamentals.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
+    //     }
+    //   ]
+    // },
+    // {
+    //   title: "HashiCorp Certified Terraform Associate",
       
-      image: require("./assets/images/terraform-associate.webp"),
-      footerLink: [
-        {
-          name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
-        }
-      ]
-    }
+    //   image: require("./assets/images/terraform-associate.webp"),
+    //   footerLink: [
+    //     {
+    //       name: "Certification",
+    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
+    //     }
+    //   ]
+    // }
     // {
     //   title: "Red Hat Certified Specialist in Ceph Storage Admininstation",
       
