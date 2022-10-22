@@ -235,7 +235,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-security-engineer.PNG"
         }
       ]
     },
@@ -246,7 +246,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-developer-associate.PNG"
         }
       ]
     },
@@ -258,7 +258,7 @@ const achievementSection = {
     //   footerLink: [
     //     {
     //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
+    //       url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-architect-design.PNG"
     //     }
     //   ]
     // },
@@ -269,7 +269,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-solutions-architect-expert.PNG"
         }
       ]
     },
@@ -280,7 +280,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-devops-engineer.PNG"
         }
       ]
     },
@@ -292,7 +292,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-administrator.PNG"
         }
       ]
     },
@@ -303,7 +303,7 @@ const achievementSection = {
     //   footerLink: [
     //     {
     //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
+    //       url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-fundamentals.PNG"
     //     }
     //   ]
     // },
@@ -314,7 +314,7 @@ const achievementSection = {
     //   footerLink: [
     //     {
     //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
+    //       url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-ai-fundamentals.PNG"
     //     }
     //   ]
     // }
@@ -325,7 +325,7 @@ const achievementSection = {
     //   footerLink: [
     //     {
     //       name: "Certification",
-    //       url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
+    //       url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/azure-data-fundamentals.PNG"
     //     }
     //   ]
     // }
@@ -336,7 +336,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/terraform-associate.PNG"
         }
       ]
     },
@@ -347,7 +347,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/redhat-ceph-storage.PNG"
         }
       ]
     },
@@ -359,7 +359,7 @@ const achievementSection = {
     //   // footerLink: [
     //   //   {
     //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-openshift.PNG"
+    //   //     url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/redhat-openshift.PNG"
     //   //   }
     //   // ]
     // },
@@ -370,7 +370,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
+          url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/redhat-ansible.PNG"
         }
       ]
     },
@@ -382,7 +382,7 @@ const achievementSection = {
     //   // footerLink: [
     //   //   {
     //   //     name: "Certification",
-    //   //     url: "https://storage.cloud.google.com/shivam-portfolio-21.appspot.com/certs/redhat-rhcsa.PNG"
+    //   //     url: "https://storage.googleapis.com/shivam-portfolio-21.appspot.com/certs/redhat-rhcsa.PNG"
     //   //   }
     //   // ]
     // }
